@@ -40,7 +40,7 @@
 |Lecture1|4/7(火) |はじめに||
 |||Colaboratryのテスト|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1.ipynb)|ok|
 |||ColabでLLMを動かす(youri_7b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1_youri_7b_instruction_gptq.ipynb)|ok|
-|||ColabでLLMを動かす(open_calm_3b)| [![Open In Colab]()]|in preparation|
+|||ColabでGeminiを動かす|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1_gemini_test.ipynb)|ok|
 |Lecture2|4/10(金) |Python入門、統計の復習|[![Open In Colab]()]|in preparation|
 |Lecture3|4/14(火) |データの取得と操作|[![Open In Colab]()]|in preparation|
 |||pandasの利用|[![Open In Colab]()]|in preparation|
@@ -74,6 +74,7 @@
 |||LLMでtitanic分析|  [![Open In Colab]()]|in preparation|
 |Lecture15|6/2(火)|発展的話題とまとめ|
 |予備|6/5(金)|
+
 
 <!-- |Lecture3|4/13(水)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture3_matplotlib.ipynb)|in_progress|
 |Lecture4|4/16(土)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2022/blob/main/notebooks/lecture4.ipynb)|in_progress|
