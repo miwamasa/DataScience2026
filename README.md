@@ -38,7 +38,7 @@
 |講義|日程|内容|Colabへのリンク|status|
 |---|---|---|---|---|
 |Lecture1|4/7(火) |はじめに||
-|||Colaboratryのテスト| [![Open In Colab]()]|in preparation|
+|||Colaboratryのテスト|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1.ipynb)|ok|
 |||ColabでLLMを動かす(youri_7b)| [![Open In Colab]()]|in preparation|
 |||ColabでLLMを動かす(open_calm_3b)| [![Open In Colab]()]|in preparation|
 |Lecture2|4/10(金) |Python入門、統計の復習|[![Open In Colab]()]|in preparation|
