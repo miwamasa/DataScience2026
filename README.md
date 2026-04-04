@@ -41,7 +41,7 @@
 |||Colaboratryのテスト|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1.ipynb)|ok|
 |||ColabでLLMを動かす(youri_7b)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1_youri_7b_instruction_gptq.ipynb)|ok|
 |||ColabでGeminiを動かす|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture1_gemini_test.ipynb)|ok|
-|Lecture2|4/10(金) |Python入門、統計の復習|[![Open In Colab]()]|in preparation|
+|Lecture2|4/10(金) |Python入門、統計の復習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture2.ipynb)|ok|
 |Lecture3|4/14(火) |データの取得と操作|[![Open In Colab]()]|in preparation|
 |||pandasの利用|[![Open In Colab]()]|in preparation|
 |||実習| [![Open In Colab]()]|in preparation|
