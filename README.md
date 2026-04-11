@@ -45,8 +45,8 @@
 |Lecture3|4/14(火) |データの取得と操作|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture3.ipynb)|ok|
 |||pandasの利用|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture3_pandas.ipynb)|ok|
 |||実習| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture3_practice.ipynb)|ok|
-|Lecture4|4/17(金)|データの可視化| [![Open In Colab]()]|in preparation|
-|||マンガで学ぶ..「1.棒グラフ」|[![Open In Colab]()]|in preparation|
+|Lecture4|4/17(金)|データの可視化| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture4_matplotlib.ipynb)|ok|
+|||マンガで学ぶ..「1.棒グラフ」|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture4_extra_1.ipynb)|ok|
 |||Extra(アンケート結果)| |ok|
 |Lecture5|4/21(火)|統計分布の基礎 |[![Open In Colab]()]|in preparation|
 |Lecture6|4/24(金)|回帰分析1|[![Open In Colab]()]|in preparation|
