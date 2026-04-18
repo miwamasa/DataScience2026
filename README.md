@@ -51,10 +51,10 @@
 |Lecture5|4/21(火)|統計分布の基礎 |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture5.ipynb)|ok|
 |Lecture6|4/24(金)|回帰分析1|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture6.ipynb)|ok|
 |||事例(Game)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture6_games.ipynb)|ok|
-|Lecture7|4/28(火)|回帰分析2|[![Open In Colab]()]|in preparation|
-|||重回帰分析（変数選択）|[![Open In Colab]()]|in preparation|
-|||重回帰分析（交絡因子）|[![Open In Colab]()]|in preparation|
-|||重回帰分析（ダミー変数）| [![Open In Colab]()]|in preparation|
+|Lecture7|4/28(火)|回帰分析2|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7.ipynb)|ok|
+|||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_AIC.ipynb)|ok|
+|||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_multiple_regression.ipynb)|ok|
+|||重回帰分析（ダミー変数）| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_multi_reg_category.ipynb)|ok|
 |Lecture8|5/8(金)|パターン認識1| [![Open In Colab]()]|in preparation|
 |||SVMの例| [![Open In Colab]()]|in preparation|
 |||SVMを最適化で解く| [![Open In Colab]()]|in preparation|
