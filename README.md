@@ -55,12 +55,12 @@
 |||重回帰分析（変数選択）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_AIC.ipynb)|ok|
 |||重回帰分析（交絡因子）|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_multiple_regression.ipynb)|ok|
 |||重回帰分析（ダミー変数）| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture7_multi_reg_category.ipynb)|ok|
-|Lecture8|5/8(金)|パターン認識1| [![Open In Colab]()]|in preparation|
-|||SVMの例| [![Open In Colab]()]|in preparation|
-|||SVMを最適化で解く| [![Open In Colab]()]|in preparation|
+|Lecture8|5/8(金)|パターン認識1| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture8.ipynb)|ok|
+|||SVMの例| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture8_SVM.ipynb)|ok|
+|||SVMを最適化で解く| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture8_svm_optimize.ipynb)|ok|
 |Lecture9|5/12(火)|パターン認識2|
-|||クラス分類| [![Open In Colab]()]|in preparation|
-|||クラスタリング| [![Open In Colab]()]|in preparation|
+|||クラス分類| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture9_classification.ipynb)|ok|
+|||クラスタリング| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture9_clustering.ipynb)|ok|
 |Lecture10|5/15(金)|動的システムの表現| [![Open In Colab]()]|in preparation|
 |Lecture11|5/19(火)|時系列|[![Open In Colab]()]|in preparation|
 |Lecture12|5/22(金)|状態空間モデル|[![Open In Colab]()]|in preparation|
