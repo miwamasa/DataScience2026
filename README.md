@@ -67,10 +67,10 @@
 |||周波数分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture12_frequency.ipynb)|ok|
 |Lecture13|5/26(火)|画像分析|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2026/blob/main/notebooks/lecture13.ipynb)|ok|
 |Lecture14|5/29(金)|LLM時代のデータサイエンスとは|
-|||Transformer入門|[![Open In Colab]()]|in preparation|
+|||Transformer入門|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_intro.ipynb)|ok|
 |||テキスト生成|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_textgeneration.ipynb)|ok|
-|||Q&A|[![Open In Colab]()]|in preparation|
-|||OllamaでRAG|[![Open In Colab]()]|in preparation|
+|||Q&A|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lec14_transformer_qanda.ipynb)|ok|
+|||OllamaでRAG|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/miwamasa/DataScience2025/blob/main/notebooks/lecture14_RAG_wth_local_LLM2025.ipynb)|ok|
 |||LLMでtitanic分析|  [![Open In Colab]()]|in preparation|
 |Lecture15|6/2(火)|発展的話題とまとめ|
 |予備|6/5(金)|
